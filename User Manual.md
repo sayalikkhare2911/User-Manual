@@ -6,11 +6,27 @@ Mobile is fundamental as well as mandatory device for each and every human being
 Different electronic company works very hard to provide best and advanced product to the consumer. They always create updated versions of their own product and provide to user for simplifying their work.
 Samsung is one of the world's largest producers of electronic devices. Samsung specializes in the production of a wide variety of consumer and industry electronics, including appliances, digital media devices, semiconductors, memory chips, and integrated systems. It also worked in
 manufacturing mobile, smart watch and ear buds.
- ## Contents:
+ ## 1. Contents:
  
-1.	Description:	4
-2.	Specification:	4
-3.	Device Layout:	5
-4.	How to Connect Smart Watch to Mobile:	6
+-	**Description**:	4
+-	*Specification*:	4
+-	> Device Layout:	5
+-	How to Connect Smart Watch to Mobile:	6
+ a. Charge the battery	6
+b.	Wear the Watch	7
+c.	Start using your device	8
+-	References:	9
+___ -------
 
+## 2. Description:
+Smart Watch is very popular device in electronic market. It is famous in all age group people, because of their advanced technology user friendly design and architure. Samsung introduced advanced and user-friendly smart watch to us. It is embedded in advanced technology and features. In this user manual, we introduced about galaxy Watch4 Classic.
 
+## 3. Specification:
+| Technology | Specification |
+|--------|----------|
+| Technology| GSM/ HSPA/LTE|
+| Dimension | 45.5 x 45.5 x 11 mm |
+
+Use Foot Note. [^1]
+
+[^1]: This is footnote.
