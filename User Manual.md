@@ -7,8 +7,17 @@ Different electronic company works very hard to provide best and advanced produc
 Samsung is one of the world's largest producers of electronic devices. Samsung specializes in the production of a wide variety of consumer and industry electronics, including appliances, digital media devices, semiconductors, memory chips, and integrated systems. It also worked in
 manufacturing mobile, smart watch and ear buds.
  ## Contents
- 
+1. Description
+2. Specification 
+3. Device Layout
+4. How to Connect Smart Watch to Mobile
 
+   a. Charge the battery 
+   
+   b. Wear the Watch 
+   
+   c. Start using your device
+   
 ## 1. Description:
 Smart Watch is very popular device in electronic market. It is famous in all age group people, because of their advanced technology user friendly design and architure. Samsung introduced advanced and user-friendly smart watch to us. It is embedded in advanced technology and features. In this user manual, we introduced about galaxy Watch4 Classic.
 
@@ -39,7 +48,7 @@ Smart Watch is very popular device in electronic market. It is famous in all age
 ## 3. Device Layout:
 ![US 1](https://user-images.githubusercontent.com/127011714/224248377-c4dd4783-4f96-4fcb-98b7-b355652c0e6d.PNG)
 
-Source:https://www.sprint.com/content/dam/sprint/us/en/device-assets/samsung/galaxy-watch/documents/samsung-galaxy-watch4-classic-user-manual.pd_f
+*Source:https://www.sprint.com/content/dam/sprint/us/en/device-assets/samsung/galaxy-watch/documents/samsung-galaxy-watch4-classic-user-manual.pdf*
 
 ## 4. How to Connect Smart Watch to Mobile:
 ### a. Charge the battery
@@ -47,7 +56,7 @@ Your device is powered by a rechargeable battery.
 
 ![UM 2](https://user-images.githubusercontent.com/127011714/224252797-4ca42df1-6640-4593-859d-8490932f6a39.PNG)
 
-Source: https://www.sprint.com/content/dam/sprint/us/en/device-assets/samsung/galaxy-watch/documents/samsung-galaxy-watch4-classic-user-manual.pdf__
+*Source: https://www.sprint.com/content/dam/sprint/us/en/device-assets/samsung/galaxy-watch/documents/samsung-galaxy-watch4-classic-user-manual.pdf*
 
 1. Connect the wireless charger to a USB charging port. 
 2. Place the watch onto the wireless charger, aligning the canter of your watch with the center of the wireless charger. 
@@ -84,7 +93,7 @@ remove it until it cools.
 
  ![UM 3](https://user-images.githubusercontent.com/127011714/224253745-b3119a33-21c3-4575-aaf4-1a5f3c54a849.PNG)
  
-Source: https://www.sprint.com/content/dam/sprint/us/en/device-assets/samsung/galaxy-watch/documents/samsung-galaxy-watch4-classic-user-manual.pdf_
+*Source: https://www.sprint.com/content/dam/sprint/us/en/device-assets/samsung/galaxy-watch/documents/samsung-galaxy-watch4-classic-user-manual.pdf*
 
 1. Open the buckle and place the strap around your wrist. 
 2. Fit the strap to your wrist, insert the pin into an adjustment hole, and then secure the buckle to close it.
